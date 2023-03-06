@@ -28,6 +28,6 @@ This example collection contains:
 
 ---
 
-### Audio Clip from the Collection
+### Audio Clip
 
 {% include feature/audio.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/good_news_04.mp3" width="50" caption="'Good News' radio program"%}
