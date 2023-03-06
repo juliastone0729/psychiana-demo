@@ -24,4 +24,8 @@ This example collection contains:
 
 {% include feature/video.html objectid="psychiana001" width="75" %}
 
+### Audio Clip from the Collection
+
+{% include feature/audio.html objectid="psychiana004" width="50" %}
+
 {% include feature/button.html text="CollectionBuilder Website" link="https://collectionbuilder.github.io/" color="success" %}
