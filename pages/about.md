@@ -24,10 +24,10 @@ This example collection contains:
 
 ### YouTube Video from the Collection
 
-{% include feature/video.html objectid="https://www.youtube.com/watch?v=bPmae07GKv0" width="50" caption="Psychiana, A Mail Order Religion Created in the Small Town of Moscow, Idaho" %}
+{% include feature/video.html objectid="psychiana001" width=50" %}
 
 ---
 
 ### Audio Clip from the Collection
 
-{% include feature/audio.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/good_news_04.mp3" width="50" caption="'Good News' radio program"%}
+{% include feature/audio.html objectid="psychiana004" width="50" %}
