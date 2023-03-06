@@ -18,4 +18,8 @@ This example collection contains:
 - Photographs
 - Documents (flyers, advertisements, etc.)
 - Radio program recordings
-- One short video
+- A video
+
+### Video from the Collection
+
+{% include feature/video.html objectid="psychiana001" width="75" %}
