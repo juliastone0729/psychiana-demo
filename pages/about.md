@@ -24,7 +24,7 @@ This example collection contains:
 
 ### YouTube Video from the Collection
 
-{% include feature/video.html objectid="psychiana001" width=50" %}
+{% include feature/video.html objectid="https://www.youtube.com/watch?v=bPmae07GKv0" width="50" caption="Psychiana, A Mail Order Religion Created in the Small Town of Moscow, Idaho" %}
 
 ---
 
