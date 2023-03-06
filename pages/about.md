@@ -23,3 +23,5 @@ This example collection contains:
 ### Video from the Collection
 
 {% include feature/video.html objectid="psychiana001" width="75" %}
+
+{% include feature/button.html text="CollectionBuilder Website" link="https://collectionbuilder.github.io/" color="success" %}
