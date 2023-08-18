@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_f7_miscellanious_negatives_010.jpg" %}
 
-## About the Collection
+## About the Collection Example
 
 This example digital collection focuses on Psychiana, a New Thought denomination created in 1928 in Moscow, Idaho. The collection site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/).
 
